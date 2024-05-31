@@ -1,7 +1,7 @@
 ## Bug Bounty
  ### Introduction
 
-Cyber risks have become more rampant, therefore making it evident that there is the need for better measures in the protection of websites. In an effort to safeguard their information, organizations have adopted the use of bug bounty programs as a way of preventing potential threats. This paper outlines the steps that were taken during a bug bounty program where the focus was to identify vulnerabilities in a given website.
+Cyber risks have become more rampant, therefore making it evident that there is the need for better measures in the protection of websites. In an effort to safeguard their information, organizations have adopted the use of bug bounty programs as a way of preventing potential threats. This paper outlines the steps that were taken during a bug bounty program where the focus was to identify vulnerabilities in a given website
 
 It was our intention to perform a security audit of the given website, utilizing a range of testing approaches in order to identify any potential openings that could be exploited by attackers. The assessment focused on general vulnerabilities of web applications which can be listed as SQL injection, Cross Site Scripting (XSS), Cross Site Request Forgery (CSRF), and server misconfiguration.
 
