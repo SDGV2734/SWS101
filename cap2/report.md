@@ -9,6 +9,11 @@ We also intended to not only map out the system’s security flaws but also prop
 
 ### 1. Hack this site
 
+**Challenges from Basic challenges**
 
+- LEVEL 1
 
+In this first level also known as “the idiot test ” where we were assigned to find the password to complete the level.
+
+![Alt text](<hack this site/1/Screenshot 2567-05-28 at 10.07.34 PM.png>)
 
